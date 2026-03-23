@@ -5,6 +5,7 @@ int cno=100;
     String cname="shiva";
 double price=250.25;
 	  long phoneNumber=9985538462l;
+	  String email="yannamsiva@gmail.com";
 void mono()
 {
 	System.out.println("its ok);
