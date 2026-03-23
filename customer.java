@@ -8,6 +8,9 @@ void displayDetails()
 {
 System.out.println("Modificatin completed");
 }
-
+void customerDetails()
+{
+System.out.println("customer completed");
+}
   }
     
